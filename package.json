@@ -1,0 +1,23 @@
+{
+  "name": "resume_builer",
+  "version": "1.0.0",
+  "description": "Resume generator that will input user answers into a resume.md.",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://amandaln.github.io/resume_builder/"
+  },
+  "author": "Amanda Nelson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://amandaln.github.io/resume_builder/issues"
+  },
+  "homepage": "https://amandaln.github.io/resume_builder/"
+}
